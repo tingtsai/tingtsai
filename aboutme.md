@@ -6,7 +6,7 @@ subtitle: Ambidextrous, Christian, and a Vegetarian
 
 
 - A Ph.D. Candidate at Stanford University
-- In the field of  Nanofabrication, Electrophysiology, Bioelectronics
+- Working on Nanofabrication, Electrophysiology, Bioelectronics
  
 
 ### My Personal story
