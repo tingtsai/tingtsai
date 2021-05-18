@@ -7,9 +7,13 @@ author: Ching-Ting Tsai @ Stanford
 
 navbar-links:
   About Me: "aboutme"
-  Research: "aboutme"
-  Publications: "aboutme"
-  Honors: "aboutme"
+  Research: 
+    - Electrophysiology: "electrophysiology"
+    - Nanofabrication: "nanofabrication"
+    - Deep learning: "deeplearning"
+    - GLycobiology: "glycobiology"
+  Publications: "publications"
+  Honors: "honors"
   Related Resources:
     - Cui Lab: "https://cuilab.stanford.edu/"
   
@@ -53,7 +57,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "Stanford.edu"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -65,7 +69,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+#keywords: "Nanofabrication,Electrophysiology,Deep Learning"
 
 # --- Colours / background image --- #
 
@@ -205,6 +209,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
