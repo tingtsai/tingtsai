@@ -31,10 +31,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "tingtsai@stanford.edu"
-  github: "https://github.com/tingtsai"
-  linkedin: "https://www.linkedin.com/in/ching-ting-tsai-6519b2187"
+  github: tingtsai
+  linkedin: Ching-Ting Tsai
   ORCID: 0000-0002-3913-0078
-  google-scholar: "https://scholar.google.com/citations?user=881HK_wAAAAJ&hl=en"
+  google-scholar: Ching-Ting Tsai
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
