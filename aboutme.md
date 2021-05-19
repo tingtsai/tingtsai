@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About Ching-Ting 
-subtitle: Ambidextrous, Christian, and a Vegetarian
 ---
 
 
