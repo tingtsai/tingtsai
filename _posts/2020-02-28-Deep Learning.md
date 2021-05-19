@@ -7,8 +7,9 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
+Electrophysiology would be revolutionized by a technique that can measure intracellular electrical potentials without causing severe dialysis damage, be massively parallelized, and have one-to-one coupling between the cell and the recording electrode. With promising massively parallelizable methods developed in several groups including ours, systematically extracting information from the generated datasets becomes a serious challenge (one which we are facing with our current research). Working with Dr. Csaba Forro, Prof. Zeinab Jahed, we started a project employing deep learning algorithms to process the large action potential datasets obtained from our electrophysiology platform. One powerful aspect of our platform is the ability to measure intra and extracellular signals from the same cell. 
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+<!-- This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
 **Here is some bold text**
 
@@ -75,4 +76,4 @@ You can add notification, warning and error boxes like this:
 ### Error
 
 {: .box-error}
-**Error:** This is an error box.
+**Error:** This is an error box. -->
