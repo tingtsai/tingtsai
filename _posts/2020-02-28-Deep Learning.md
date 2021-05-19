@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Deep learning analytics for electrophysiology analysis
+<!-- subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+gh-badge: [star, fork, follow] -->
+tags: [Deep learning, electrophysiology]
 comments: true
 ---
 Electrophysiology would be revolutionized by a technique that can measure intracellular electrical potentials without causing severe dialysis damage, be massively parallelized, and have one-to-one coupling between the cell and the recording electrode. With promising massively parallelizable methods developed in several groups including ours, systematically extracting information from the generated datasets becomes a serious challenge (one which we are facing with our current research). Working with Dr. Csaba Forro, Prof. Zeinab Jahed, we started a project employing deep learning algorithms to process the large action potential datasets obtained from our electrophysiology platform. One powerful aspect of our platform is the ability to measure intra and extracellular signals from the same cell. 
