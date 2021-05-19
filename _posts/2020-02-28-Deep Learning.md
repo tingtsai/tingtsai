@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Deep learning analytics for electrophysiology analysis
-<!-- subtitle: Each post also has a subtitle
+subtitle: Big data drives new discovery for electrophysiology
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow] -->
+gh-badge: [star, fork, follow]
 tags: [Deep learning, electrophysiology]
 comments: true
 ---
