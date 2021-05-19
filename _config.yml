@@ -10,8 +10,8 @@ navbar-links:
   Projects: "projects"
   Publications: "publications"
   Honors: "honors"
-  Related Resources:
-    - Cui Lab: "https://cuilab.stanford.edu/"
+#   Related Resources:
+#     - Cui Lab: "https://cuilab.stanford.edu/"
   
 
 # --- Logo --- #
