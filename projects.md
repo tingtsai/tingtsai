@@ -1,6 +1,5 @@
 ---
 layout: page
-title: #Research projects
 ---
 
 ## Fabrication of vertical nanostructures for mechanobiology study ##
