@@ -5,7 +5,7 @@ title: projects
 
 ## Fabrication of vertical nanostructures for mechanobiology study ##
 [Bioprinting on 3D nanostructures with the Alveole PRIMO](https://snfexfab.stanford.edu/snf/projects/bioprinting-on-3d-nanostructures-with-alveole-primo)
-![Stanford Logo](/assets/img/PRIMO.png){ width=50% } ![Printing on nanostructures](/assets/img/PRIMOnano.png){ width=50% }
+![Stanford Logo](/assets/img/PRIMO.png) ![Printing on nanostructures](/assets/img/PRIMOnano-1.png)
 
 ## Nano-sensing platform for curvature-sensitive proteins ##
 
