@@ -1,9 +1,13 @@
 ---
 layout: page
-title: projects
+title: Projects
 ---
+[Label-free SEM Content Recognition with Cycle-consistent Generative Adversarial Networks](http://cs230.stanford.edu/projects_spring_2020/reports/38856594.pdf)<br>
+![CycleGAN for SEM recognition](/assets/img/CycleGAN.png)
 
-Bioprinting on 3D nanostructures with the Alveole PRIMO](https://snfexfab.stanford.edu/snf/projects/bioprinting-on-3d-nanostructures-with-alveole-primo)<br>
+*CT Tsai, X Li, X Sun, C Forró, CS230 Report, Stanford, 2021*
+
+[Bioprinting on 3D nanostructures with the Alveole PRIMO](https://snfexfab.stanford.edu/snf/projects/bioprinting-on-3d-nanostructures-with-alveole-primo)<br>
 ![Stanford Logo](/assets/img/PRIMO-1.jpg) ![Printing on nanostructures](/assets/img/PRIMOnano-1.jpg)
 
 *CT Tsai, CH Lu, Z Jahed, S Kommera, X Li, G Pardon, B Cui, E241 Report, Stanford Nanofabrication Facility, 2018*
