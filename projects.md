@@ -15,6 +15,6 @@ title: Projects
 [Quantitative Nano-Platforms for Interrogation of Curvature Sensitive Proteins](https://www.cell.com/biophysj/pdf/S0006-3495(19)32394-X.pdf)<br>
 ![Nano-sensing platform](/assets/img/nanosensing.png) 
 
-*CT Tsai, T Jones, L Klaussen, Z Jahed, X Li, B Cui, Biophysical Journal 118 (3), 249a-250a*
+*CT Tsai, T Jones, L Klaussen, Z Jahed, X Li, B Cui, Biophysical Journal 118 (3), 249a-250a* 
 
  
