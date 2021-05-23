@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 ---
-[Label-free SEM Content Recognition with Cycle-consistent Generative Adversarial Networks](http://cs230.stanford.edu/projects_spring_2020/reports/38856594.pdf)<br>
+[Label-free SEM Content Recognition with Cycle-consistent Generative Adversarial Networks](https://github.com/tingtsai/SEM-Recognition)<br>
 ![CycleGAN for SEM recognition](/assets/img/CycleGAN.png)
 
 *CT Tsai, X Li, X Sun, C Forró, CS230 Report, Stanford, 2021*
