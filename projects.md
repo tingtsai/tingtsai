@@ -23,5 +23,7 @@ title: Projects
 
 *CT Tsai, T Jones, L Klaussen, Z Jahed, X Li, B Cui, Biophysical Journal 118 (3), 249a-250a* 
 
- [Predictive wet-etching for precise sub-micron nanostructures](https://www.cell.com/biophysj/pdf/S0006-3495(19)32394-X.pdf)<br>
+ [Predictive wet-etching for precise sub-micron nanostructures](Diffetch.md)<br>
 ![Differential wet-etching](/assets/img/diff_etching.png) 
+
+*In collaboration with Dr. Csaba Forro, Stanford*
