@@ -10,6 +10,9 @@ title: Projects
 [Bio-inspired design of micro-devices with high structural stability]()
 ![colorful](video/colorful_resize.gif)
 
+*In collaboration with Dr. Csaba Forro, Stanford*
+
+
 [Bioprinting on 3D nanostructures with the Alveole PRIMO](https://snfexfab.stanford.edu/snf/projects/bioprinting-on-3d-nanostructures-with-alveole-primo)<br>
 ![Stanford Logo](/assets/img/PRIMO-1.jpg) ![Printing on nanostructures](/assets/img/PRIMOnano-1.jpg)
 
