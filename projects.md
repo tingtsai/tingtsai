@@ -7,7 +7,7 @@ title: Projects
 
 *CT Tsai, X Li, X Sun, C Forró, CS230 Report, Stanford, 2021*
 
-[Bio-inspired design of micro-devices with high structural stability](https://github.com/tingtsai/tingtsai.github.io/blob/master/projects.md)
+[Bio-inspired design of micro-devices with high structural stability](Physarum.md)
 ![colorful](video/colorful_resize.gif)
 
 *In collaboration with Dr. Csaba Forro, Stanford*
