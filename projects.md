@@ -7,7 +7,7 @@ title: Projects
 
 *CT Tsai, X Li, X Sun, C Forró, CS230 Report, Stanford, 2021*
 
-[Bio-inspired algorithm of path finding algorithm for mesh electronics application]()
+[Bio-inspired design of micro-devices with high structural stability]()
 ![colorful](video/colorful_resize.gif)
 
 [Bioprinting on 3D nanostructures with the Alveole PRIMO](https://snfexfab.stanford.edu/snf/projects/bioprinting-on-3d-nanostructures-with-alveole-primo)<br>
