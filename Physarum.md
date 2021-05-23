@@ -1,4 +1,3 @@
-Description
 
 This project aims to develop design of micro devices with mesh-like geometries. This is done in the frame of flexible electronics. These designs are usually performed in the frame of CAD design where lines, squares, circles are combined into a hierarchical and engineered arrangement. 
 
