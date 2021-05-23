@@ -15,7 +15,7 @@ At age 10, I received a book titled “The Elements”, which introduced me to t
 
 In high school, I joined the social service club. As the saying goes, with great privilege comes great responsibility. As a blessed individual, I believe that besides knowledge, what we need to develop in school is integrity. The true reward for a blessed life is having the ability to perform altruistic acts. During my three years in the club, we participated in various activities and visited many places. In a rescue operation, we went to a village that was severely damaged by typhoon Morakot to help with reconstruction. I was shocked by the magnitude of the damage. During those few days, I spent time with the local kids, seeing the world through their eyes. The devastating scene reminded me how fortunate I was and how there were still many others in the world in desperate need of help. 
 
-![](/assets/img/service.jpeg)
+![](/assets/img/Service.jpeg)
 
 I believe there are many ways to give back, and studying science is an extraordinary one. Since high school, I have been involved in many scientific activities, from being a participant in an international Science Youth Forum, to competing in the Taiwan International Science Fair, to winning the International Chemistry Olympiad. During my journey as a chemist, I had plentiful opportunities to learn valuable lessons from Nobel laureates and to share ideas with many great minds. 
 
