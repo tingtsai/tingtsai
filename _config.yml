@@ -4,11 +4,13 @@ title: Ching-Ting's website
 
 ---
 
+# Name of website
+title: Ching-Ting's website
 # Your name to show in the footer
-author: Ching-Ting Tsai
-
-# --- List of links in the navigation bar --- #
+author: Ching-Ting
  
+# --- List of links in the navigation bar --- #
+
 navbar-links:
   About Me: "aboutme"
   Projects: "projects" 
@@ -207,4 +209,3 @@ plugins:
   - jekyll-sitemap
 
 # 2fc73a3a967e97599c9763d05e564189
-
