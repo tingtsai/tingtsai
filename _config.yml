@@ -1,13 +1,13 @@
-----
+---
 layout: home
 
 # Name of website
 title: Ching-Ting's website
-# Your name to show in the footer
-author: Ching-Ting
+
 --- 
 # --- List of links in the navigation bar --- #
-
+# Your name to show in the footer
+author: Ching-Ting
 navbar-links:
   About Me: "aboutme"
   Projects: "projects" 
