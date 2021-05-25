@@ -1,7 +1,13 @@
+---
+layout: home
+title: Ching-Ting's website
+
+---
+
 # Name of website
 title: Ching-Ting's website
 # Your name to show in the footer
-author: Ching-Ting Tsai
+author: Ching-Ting
  
 # --- List of links in the navigation bar --- #
 
@@ -176,9 +182,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: "page"
     values:
-      layout: "post"
+      layout: "page"
       comments: false  # add comments to all blog posts
       social-share: false # add social media sharing buttons to all blog posts
   -
