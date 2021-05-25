@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Ching-Ting's website
 
----
+
+
 
 # Name of website
 title: Ching-Ting's website
@@ -17,7 +17,7 @@ navbar-links:
 #   Related Resources:
 #     - Cui Lab: "https://cuilab.stanford.edu/"
   
-
+---
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
