@@ -1,9 +1,3 @@
----
-layout: home
-title: About Ching-Ting
-<!-- subtitle: This is where I will tell my friends way too much about me -->
----
- 
 # Name of website
 title: Ching-Ting's website
 # Your name to show in the footer
@@ -13,8 +7,7 @@ author: Ching-Ting Tsai
 
 navbar-links:
   About Me: "aboutme"
-  Projects: "projects"
-
+  Projects: "projects" 
 #   Related Resources:
 #     - Cui Lab: "https://cuilab.stanford.edu/"
   
@@ -182,10 +175,10 @@ kramdown:
 defaults:
   -
     scope:
-      path: "_posts/"
-      type: "posts"
+      path: ""
+      type: "page"
     values:
-      layout: "post"
+      layout: "page"
       comments: false  # add comments to all blog posts
       social-share: false # add social media sharing buttons to all blog posts
   -
@@ -204,7 +197,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
-
+ 
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
